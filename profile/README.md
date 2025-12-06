@@ -10,7 +10,7 @@
 
 ---
 
-## ✨ About
+## About
 
 **AnyIndex** is a curated directory of the best streaming websites available online.  
 Its purpose is simple: provide a clean, organized, and frequently updated index of high-quality platforms where users can watch anime, movies, TV shows, documentaries, and more.
@@ -20,7 +20,7 @@ It functions purely as an informational index, helping users discover reliable s
 
 ---
 
-## 🚀 Features
+## Features
 
 - Categorized list of streaming websites  
 - Clean and user-friendly layout  
@@ -31,7 +31,7 @@ It functions purely as an informational index, helping users discover reliable s
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 The goal of AnyIndex is to make discovering streaming platforms easier, without the clutter and misleading links commonly found online.  
 It is designed for transparency, simplicity, and accessibility.
@@ -39,7 +39,7 @@ It is designed for transparency, simplicity, and accessibility.
 ---
 
 
-## ⚖️ Disclaimer
+## Disclaimer
 
 AnyIndex does **not** host, store, or distribute copyrighted content.  
 It only indexes publicly available streaming websites.  
